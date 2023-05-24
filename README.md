@@ -59,6 +59,4 @@
 
 <p>Contributions are off for current time period ! but  If you find any issues or want to add new features to this app, feel free to open an issue or submit a pull request. Please make sure to follow the existing coding style and guidelines.</p>
 
-<h2>License</h2>
 
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
